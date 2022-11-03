@@ -10,7 +10,20 @@ body{
     color: rgb(189, 189, 189);
 }
 
+.headline {
+  color: rgb(244, 67, 54);
+  background-color: rgb(97, 97, 97);
+  text-align: center;
+}
+
+.ingredients {
+  color: rgb(229, 57, 53);
+}
+
+.description {
+  color: rgb(93, 64, 55);
+}
+
 ul {
-  font-size: 24px;
-  color: rgb(188, 170, 164);
+  font-size: 20px;
 }
