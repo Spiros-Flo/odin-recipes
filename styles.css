@@ -11,19 +11,30 @@ body{
 }
 
 .headline {
-  color: rgb(244, 67, 54);
+  color: rgb(255, 87, 34);
   background-color: rgb(97, 97, 97);
   text-align: center;
 }
 
-.ingredients {
+.ingredients,
+.steps {
   color: rgb(229, 57, 53);
 }
 
 .description {
-  color: rgb(93, 64, 55);
+  color: rgb(0, 137, 123);
 }
 
-ul {
+p {
+  font-size: 20px;
+  text-align: justify;
+}
+
+ul li {
+  font-size: 22px;
+}
+
+
+li p {
   font-size: 20px;
 }
