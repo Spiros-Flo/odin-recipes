@@ -4,6 +4,13 @@ body{
   }
 
 
-.mediterranean {
-    background-color: rgb(14, 98, 81);
+.mediterranean,
+.otherrecipes {
+    background-color: rgb(84, 110, 122);
+    color: rgb(189, 189, 189);
+}
+
+ul {
+  font-size: 24px;
+  color: rgb(188, 170, 164);
 }
